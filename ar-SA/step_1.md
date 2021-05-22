@@ -1,8 +1,8 @@
-## Take part in Coolest Projects
+## شارك في تجمع (أروع المشاريع)
 
-Check out [Coolest Projects](https://coolestprojects.org/){:target="_blank"}, the world’s leading technology showcase for young people! On the [Coolest Projects website](https://coolestprojects.org/){:target="_blank"}, you can find out when project registration is open, and get ready to register your project!
+تحقق من [أروع المشاريع](https://coolestprojects.org/){: target = "_ blank"} ، المعرض التكنولوجي الرائد في العالم للشباب! على [موقع الالكتروني لاروع المشاريع](https://coolestprojects.org/){: target = "_ blank"} ، يمكنك معرفة موعد فتح تسجيل المشروع والاستعداد لتسجيل مشروعك!
 
-If you have made a Scratch project, you can register your project in the Scratch category. Your project doesn't have to be finished — prototypes and works in progress are welcome too! When you have entered your project, your creation will be showcased in the Coolest Projects online gallery, for people all over the world to see! Join other young people in celebrating and recognising each other’s achievements as a community.
+إذا كنت قد أنشأت مشروع سكراتش ، فيمكنك تسجيل مشروعك في فئة سكراتش. ليس من الضروري إنهاء مشروعك - فالنماذج الأولية والأعمال قيد التنفيذ مرحب بها أيضًا! عندما تدخل مشروعك ، سيتم عرض إبداعك في معرض أروع المشاريع على الإنترنت ، ليراه الناس في جميع أنحاء العالم! انضم إلى الشباب الآخرين في الاحتفال والاعتراف بإنجازات بعضهم البعض كمجتمع.
 
 
-You can use the Coolest Projects [How to make a project](https://coolestprojects.org/2020/03/31/how-to-make-a-project-workbook-and-additional-resources/){:target="_blank"} resources to help you come up with original project ideas.
+يمكنك الاستعانة بـ[كيفية إنشاء مشروع](https://coolestprojects.org/2020/03/31/how-to-make-a-project-workbook-and-additional-resources/){: target = "_ blank"} لمساعدتك على الخروج بأفكار مشروع أصلية.
