@@ -5,4 +5,4 @@ Confira a [Coolest Projects](https://coolestprojects.org/){:target="_blank"}, a 
 Se você fez um projeto Scratch, pode registrá-lo na categoria Scratch. Seu projeto não precisa estar concluído - protótipos e trabalhos em andamento também são bem-vindos! Quando você tiver submetido seu projeto, sua criação será exibida na galeria online Coolest Projects, para que pessoas de todo o mundo vejam! Junte-se a outros jovens para celebrar e reconhecer as conquistas de todos como uma comunidade.
 
 
-You can use the Coolest Projects [How to make a project](https://coolestprojects.org/2020/03/31/how-to-make-a-project-workbook-and-additional-resources/){:target="_blank"} resources to help you come up with original project ideas.
+Você pode usar os recursos [How to make a project](https://coolestprojects.org/2020/03/31/how-to-make-a-project-workbook-and-additional-resources/){:target="_blank"} do Coolest Projects para ajudá-lo a ter ideias originais para um projeto.
