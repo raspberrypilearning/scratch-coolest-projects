@@ -1,8 +1,5 @@
-## Participe do Coolest Projects
-
 Confira a [Coolest Projects](https://coolestprojects.org/){:target="_blank"}, a principal exposição mundial de tecnologia para jovens! No [website Coolest Projects](https://coolestprojects.org/){:target="_blank"}, você pode descobrir quando o registro de projetos está aberto e se preparar para registrar seu projeto!
 
-Se você fez um projeto Scratch, pode registrá-lo na categoria Scratch. Seu projeto não precisa estar concluído - protótipos e trabalhos em andamento também são bem-vindos! Quando você tiver submetido seu projeto, sua criação será exibida na galeria online Coolest Projects, para que pessoas de todo o mundo vejam! Junte-se a outros jovens para celebrar e reconhecer as conquistas de todos como uma comunidade.
+If you have made a Scratch project, you can register your project in the Scratch category when Coolest Projects project registration is open. Seu projeto não precisa estar concluído - protótipos e trabalhos em andamento também são bem-vindos! Quando você tiver submetido seu projeto, sua criação será exibida na galeria online Coolest Projects, para que pessoas de todo o mundo vejam! Junte-se a outros jovens para celebrar e reconhecer as conquistas de todos como uma comunidade.
 
-
-Você pode usar os recursos [How to make a project](https://coolestprojects.org/2020/03/31/how-to-make-a-project-workbook-and-additional-resources/){:target="_blank"} do Coolest Projects para ajudá-lo a ter ideias originais para um projeto.
+You can use the Coolest Projects [How to make a project](https://coolestprojects.org/2020/03/31/how-to-make-a-project-workbook-and-additional-resources/){:target="_blank"} resources to help you think of original project ideas.
