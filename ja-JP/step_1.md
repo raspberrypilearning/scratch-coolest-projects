@@ -1,5 +1,5 @@
-Check out [Coolest Projects](https://coolestprojects.org/){:target="_blank"}, the world’s leading technology showcase for young people! On the [Coolest Projects website](https://coolestprojects.org/){:target="_blank"}, you can find out when project registration is open, and get ready to register your project!
+世界をリードする若者向けのテクノロジーショーケースである[Coolest Projects](https://coolestprojects.org/){:target="_blank"}をチェックしてみてください。 [Coolest ProjectsのWebサイト](https://coolestprojects.org/){:target="_blank"}でいつプロジェクト登録が開始になるか確認して、あなたのプロジェクトを登録する準備を行いましょう！
 
-If you have made a Scratch project, you can register your project in the Scratch category when Coolest Projects project registration is open. Your project doesn't have to be finished — prototypes and works in progress are welcome too! When you have entered your project, your creation will be showcased in the Coolest Projects online gallery, for people all over the world to see! Join other young people in celebrating and recognising each other’s achievements as a community.
+既にScratchプロジェクトを作成しているならば、Coolest Projectsプロジェクト登録が始まったら、あなたのプロジェクトをScratchカテゴリへ登録できます。 プロジェクトが完成していなくても構いません。プロトタイプや作業中のものでも大歓迎です！ プロジェクトを登録すると、世界中の人々があなたの作品を見ることができるようにCoolest Projectsのオンラインギャラリーに展示されます。 コミュニティとして、他の若者たちと一緒にお互いの成果をほめ、認め合いましょう。
 
-You can use the Coolest Projects [How to make a project](https://coolestprojects.org/2020/03/31/how-to-make-a-project-workbook-and-additional-resources/){:target="_blank"} resources to help you think of original project ideas.
+Coolest Projectsの[プロジェクトの作り方](https://coolestprojects.org/2020/03/31/how-to-make-a-project-workbook-and-additional-resources/){:target="_blank"}に関するリソースはプロジェクトの元になるアイデアを考える際の手助けになります。
