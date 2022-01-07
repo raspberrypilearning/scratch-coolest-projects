@@ -1,0 +1,5 @@
+Edrychwch ar ["Coolest Project"](https://coolestprojects.org/){:target="_blank"}, prif arddangosiad technoleg y byd i bobl ifanc! Ar wefan [Coolest Projects](https://coolestprojects.org/){:target="_blank"}, gallwch ddarganfod pryd mae cofrestriad prosiect ar agor, a pharatoi i gofrestru eich prosiect!
+
+Os ydych wedi gwneud prosiect Scratch, gallwch gofrestru eich prosiect yn y categori Scratch pan fydd cofrestriad prosiect Coolest Projects ar agor. Nid oes rhaid gorffen eich prosiect - mae croeso i brototeipiau a gwaith ar y gweill hefyd! Pan fyddwch wedi mewnbwnio eich prosiect, bydd eich creadigaeth yn cael ei arddangos yn oriel ar-lein Coolest Projects, i bobl ledled y byd ei weld! Ymunwch â phobl ifanc eraill i ddathlu a chydnabod cyflawniadau eu gilydd fel cymuned.
+
+Gallwch ddefnyddio adnoddau Coolest Projects [Sut i wneud prosiect](https://coolestprojects.org/2020/03/31/how-to-make-a-project-workbook-and-additional-resources/){:target="_blank"} i'ch helpu i feddwl am syniadau prosiect gwreiddiol.
