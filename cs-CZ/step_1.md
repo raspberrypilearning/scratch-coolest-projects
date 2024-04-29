@@ -1,0 +1,5 @@
+Podívejte se na [Coolest Projects](https://coolestprojects.org/){:target="_blank"}, přední světovou prezentaci technologií pro mladé lidi! Na webu [Coolest Projects](https://coolestprojects.org/){:target="_blank"} můžete zjistit, kdy se spouští registrace projektů a připravit se na registraci svého projektu!
+
+Pokud jste vytvořili projekt ve Scratchi, můžete svůj projekt zaregistrovat v kategorii Scratch, jakmile bude spuštěna registrace do Coolest Projects. Váš projekt nemusí být dokončen – prototypy a rozpracované projekty jsou také vítány! Když nahrajete svůj projekt, váš výtvor bude vystaven v online galerii Coolest Projects, kde je uvidí lidé z celého světa! Připojte se k ostatním mladým lidem, poznejte a oslavte navzájem své úspěchy jako komunita.
+
+Můžete použít návody z Coolest Projects [Jak vytvořit projekt](https://coolestprojects.org/2020/03/31/how-to-make-a-project-workbook-and-additional-resources/){:target="_blank"}, které vám pomohou vymyslet originální nápady na projekty.
